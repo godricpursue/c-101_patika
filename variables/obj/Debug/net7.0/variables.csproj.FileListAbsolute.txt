@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Pratikler\variables\bin\Debug\net7.0\variables.exe
+C:\Users\Administrator\Desktop\Pratikler\variables\bin\Debug\net7.0\variables.deps.json
+C:\Users\Administrator\Desktop\Pratikler\variables\bin\Debug\net7.0\variables.runtimeconfig.json
+C:\Users\Administrator\Desktop\Pratikler\variables\bin\Debug\net7.0\variables.dll
+C:\Users\Administrator\Desktop\Pratikler\variables\bin\Debug\net7.0\variables.pdb
+C:\Users\Administrator\Desktop\Pratikler\variables\obj\Debug\net7.0\variables.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Pratikler\variables\obj\Debug\net7.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Pratikler\variables\obj\Debug\net7.0\variables.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Pratikler\variables\obj\Debug\net7.0\variables.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Pratikler\variables\obj\Debug\net7.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Pratikler\variables\obj\Debug\net7.0\variables.dll
+C:\Users\Administrator\Desktop\Pratikler\variables\obj\Debug\net7.0\refint\variables.dll
+C:\Users\Administrator\Desktop\Pratikler\variables\obj\Debug\net7.0\variables.pdb
+C:\Users\Administrator\Desktop\Pratikler\variables\obj\Debug\net7.0\variables.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Pratikler\variables\obj\Debug\net7.0\ref\variables.dll
